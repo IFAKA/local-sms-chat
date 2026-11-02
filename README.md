@@ -247,3 +247,11 @@ MIT License - Feel free to use and modify for your projects.
 ---
 
 **Built with ❤️ for bridging the digital divide**
+
+---
+
+## Support
+
+If this project is useful to you, you can support my work:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/zfaka)
